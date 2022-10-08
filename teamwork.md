@@ -1,4 +1,4 @@
-# Team work
+# Final team pages
 
 During the last 2 hours of the workshop, the participants worked on tasks from their team project board to write sections of their team markdown file in their own branch. Then they merged their work together. All work was done in the browser. Participants did not need to download anything.
 
