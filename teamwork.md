@@ -8,3 +8,7 @@ During the last 2 hours of the workshop, the participants worked on tasks from t
 4. One by one, and working together, each team member did a pull request and merged content into the main branch.
 5. The team worked together to resolve merge conflicts in the browser via the GitHub resolve merge conflict page.
 
+## Project board example
+
+<img width="1374" alt="image" src="https://user-images.githubusercontent.com/2545978/194726366-634801a4-0407-4704-bd3e-4be003bed159.png">
+
