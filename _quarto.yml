@@ -51,6 +51,8 @@ website:
           - music.md
           - sports.md
           - history.md
+      - href: reuse.md
+        text: Reuse Statement
         
 
 format:
