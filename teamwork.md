@@ -12,3 +12,10 @@ During the last 2 hours of the workshop, the participants worked on tasks from t
 
 <img width="1374" alt="image" src="https://user-images.githubusercontent.com/2545978/194726366-634801a4-0407-4704-bd3e-4be003bed159.png">
 
+## Example of the main branch
+
+With the team markdown files.
+
+<img width="849" alt="image" src="https://user-images.githubusercontent.com/2545978/194726495-f7a9a704-f981-49f5-a5dc-070e505b08b9.png">
+
+
