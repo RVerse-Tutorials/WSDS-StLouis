@@ -37,7 +37,3 @@ Today will a mini-hackathon, mini as in 4-hour. As a group, we will produce a se
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Thanks for coming!
-
-## Reuse Statement
-
-You are welcome to use any and all of this material and modify however you like. While it is always nice to get acknowledgement, especially if you reuse our content heavily, you do not need to give acknowledgment or attribution. This is content that we release fully into the public domain under CC0 for reuse.
